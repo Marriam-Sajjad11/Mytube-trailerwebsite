@@ -1,0 +1,23 @@
+/* MovieTypes.css */
+.movie-types {
+    display: flex;
+    gap: 10px;
+    background-color: black; 
+    padding: 10px 50px;
+  }
+  
+  .movie-type {
+    border: 0px solid;
+    padding: 5px 30px; 
+    font-size: 18px;
+    color: #fff;
+    border-radius: 10px; 
+    background-color: rgba(232, 222, 222, 0.3);
+    text-decoration: none;
+  }
+  .movie-type:hover {
+    border: 1px solid rgb(110, 27, 27);
+    background-color:black;
+    color: #fff;
+  }
+  

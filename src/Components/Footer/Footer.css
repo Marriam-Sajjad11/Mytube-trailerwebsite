@@ -1,0 +1,19 @@
+footer{
+    background-color: rgb(7, 7, 28);
+   
+    justify-content: center;
+}
+.container{
+    background-color: rgb(7, 7, 28);
+
+    color: beige;
+    justify-content: center;
+    margin-left: 550px;
+   
+}
+.footer p{
+    color: black;
+    margin-left: 1000px;
+    justify-content: center;
+    margin-top: 100px;
+}
